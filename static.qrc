@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/static">
+        <file>font/FZSJ-ZJYTJW.TTF</file>
+        <file>font/digifaw.ttf</file>
+        <file>img/OK.png</file>
+        <file>img/get_ip.png</file>
+        <file>img/dconnect.png</file>
+        <file>img/lock.png</file>
+	<file>img/yaoshi.png</file>
+    </qresource>
+</RCC>
